@@ -1,4 +1,6 @@
 Flask==3.1.0
 gunicorn==23.0.0
 python-dotenv==0.19.2
+pydantic==2.10.3
+typing_extensions==4.12.2
 supabase==2.10.0
